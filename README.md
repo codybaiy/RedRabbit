@@ -1,2 +1,2 @@
 # RedRabbit
-automatically batch follow the following list of a specific bilibili user
+自动批量关注某个b站up主的关注列表，前提是他开启了查看权限，最多能看到他100个关注的人
